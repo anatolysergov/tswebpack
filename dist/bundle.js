@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("temp.ts"),console.log(123)})();
